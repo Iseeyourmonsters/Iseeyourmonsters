@@ -1,6 +1,6 @@
 ## Hi there, I'm Iseeyourmonsters. 👋
 
-- 🏫 I’m an graduate Computer Science student from SUSTech.
+- 🏫 I’m a graduate Computer Science student from SUSTech.
 - 🔭 I’m currently learning Machine Learning, especially LLM.
 - 😄 I'm a member of the SUSTech Choir.
 - 🤞 I like singing, playing badminton and ping pong.
